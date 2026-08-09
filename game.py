@@ -141,9 +141,10 @@ class Obstacle(pygame.sprite.Sprite):
         self.delete_obstacle()
 
 
-class Background():
+class Background(pygame.sprite.Sprite):
 
     def __init__(self, background):
+        super().__init__()
 
         if background == 'sky':
             self.image = load('graphics\Sky\sky00.png').convert_alpha()
