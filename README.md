@@ -91,3 +91,20 @@ obstacle every 2.5 seconds, the other advances the background animation every 50
 
 - Python 3.11
 - [pygame-ce](https://pyga.me/) 2.5.5
+
+## Credits
+
+The graphics, fonts and audio in this repository come from the asset pack of a public
+YouTube pygame tutorial. They are **not my work**, and they remain the property of their
+original creators under whatever terms those creators set.
+
+The code is my own. The tutorial was the starting point; the state machine, the pause
+handling and the pause-corrected scoring were written from there.
+
+## License
+
+The **source code** is released under the [MIT License](LICENSE) — use it, change it,
+build on it, just keep the copyright notice.
+
+The **assets** in `graphics/`, `font/` and `audio/` are not covered by that licence. If you
+fork this project, replace them or obtain your own permission to use them.
