@@ -1,4 +1,4 @@
-# Alien Runner
+# Pixel Runner
 
 An endless side-scrolling runner built in Python with pygame-ce.
 

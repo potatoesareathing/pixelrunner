@@ -199,7 +199,7 @@ clock = pygame.Clock()
 
 # DISPLAY
 screen = pygame.display.set_mode((800, 400))
-caption = pygame.display.set_caption('Alien Runner')
+caption = pygame.display.set_caption('Pixel Runner')
 
 # MUSIC
 pygame.mixer.music.load('audio\music.wav')
