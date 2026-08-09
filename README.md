@@ -9,6 +9,8 @@ breathing behind you while you run.
 
 Your score is simply **how many seconds you have stayed alive**.
 
+![Pixel Runner gameplay](screenshots/gameplay.png)
+
 ---
 
 ## Gameplay
